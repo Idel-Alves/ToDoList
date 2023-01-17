@@ -6,7 +6,7 @@ let main = document.querySelector('#areaLista');
 function addTarefa() {
     let valorInput = input.value;
 
-    if((valorInput !== undefined) && (valorInput !== null) && (valorInput !== "")){
+    if(valorInput){
 
         ++contador;
 
