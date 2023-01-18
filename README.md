@@ -13,4 +13,5 @@
 <p>- Com CSS, trabalhar a estilização e a responsividade com diversos breakpoints para os mais variados dispositivos.</p>
 <p>- Já com JavaScript, pude colocar em pratica meu conhecimento inicial: trabalhando com variáveis, com entrada e saída de dados e função.</p>
 </div>
-<h2>Deploy na Vercel 💥</h2>
+<h2>Visualizar o projeto 💥</h2>
+https://idel-alves.github.io/ToDoList/
